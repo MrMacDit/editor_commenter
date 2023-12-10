@@ -1,0 +1,33 @@
+.editor_main {
+  /* background-color: green; */
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.editor {
+  margin-top: 18px;
+}
+
+.div_wrapper {
+  background-color: brown;
+  padding: 40px;
+  margin-top: 18px;
+}
+
+.comment_styling {
+  border: 2px solid whitesmoke;
+  border-radius: 8px;
+  background-color: slategrey;
+  display: grid;
+  grid-template-columns: 100px auto;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.date_styling {
+  background-color: #f1f1f1;
+  text-align: center;
+  font-style: italic;
+  font-family: cursive;
+}
